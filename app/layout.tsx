@@ -12,9 +12,6 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: 'PriceChaser',
   description: 'Track product prices effortlessly and save money on your online shopping.',
-  icons: {
-    icon: "/assets/icons/logo.png",
-  },
 }
 
 export default function RootLayout({
